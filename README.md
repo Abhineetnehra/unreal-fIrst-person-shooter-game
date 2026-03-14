@@ -34,4 +34,10 @@ The project focuses on core FPS systems such as:
 #Gameplay screeenshot
 ![Gameplay Screenshot 1](Images/My_FPS.png)
 
+#Author
+Developed by - Abhineet Nehra
+
+#License
+This project is for educational and demonstration purposes.
+
 
