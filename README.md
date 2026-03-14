@@ -32,6 +32,6 @@ The project focuses on core FPS systems such as:
 
 
 #Gameplay screeenshot
-![Gameplay Screenshot 1](images/My_FPS.png)
+![Gameplay Screenshot 1](Images/My_FPS.png)
 
 
